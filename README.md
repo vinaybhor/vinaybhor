@@ -1,7 +1,6 @@
 ### Hi there 👋
   - 🔭 I’m currently using JAVA to develop Mobile Applications in Android.
-  - 🌱 I’ve recently started learning Kotlin.
-  -🌱 I’ve recently started Ktor
+  - 🌱 I’ve recently started learning Kotlin & Ktor.
   - 📫 How to reach me: https://www.linkedin.com/in/vinaybhor/
 <!--
 **vinaybhor/vinaybhor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
