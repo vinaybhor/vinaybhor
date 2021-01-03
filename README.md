@@ -1,5 +1,5 @@
 ### Hi there 👋
-  - 🔭 I’m currently using JAVA to develop Mobile Applications in Android.
+  - 🔭 I’m currently using JAVA to develop Mobile Applications for Android.
   - 🌱 I’ve recently started learning Flutter.
   - 📫 How to reach me: https://www.linkedin.com/in/vinaybhor/
 <!--
